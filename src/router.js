@@ -42,7 +42,7 @@ export default new Router({
 				{ path: 'add', name: 'monsterAdd', meta: { title: '몬스터 추가하기' }, component: MonsterAdd }
 			]
 		},
-		{ path: '/vuexTest', name: 'vuexTest', meta: { title: 'Vuex실습' }, component: VuexTest },
+		{ path: '/vuexTest', name: 'vuexTest', meta: { title: 'Vuex실습수정' }, component: VuexTest },
 		{ path: '*', name: 'notFound', meta: { title: '페이지를 찾을 수 없습니다.', useMenu: false }, component: NotFound }
 	]
 })
