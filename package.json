@@ -13,8 +13,8 @@
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-service": "^4.4.1",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "babel-polyfill": "^6.26.0",
     "element-ui": "^2.11.1",
     "vue-cli-plugin-element": "^1.0.1",
